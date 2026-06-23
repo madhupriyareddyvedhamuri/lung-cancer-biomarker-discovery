@@ -33,3 +33,18 @@ This bioinformatics project analyzes real lung cancer gene expression data to id
 - Top highly expressed gene identification
 - Top variable gene identification
 - Result export to CSV
+
+## Results
+
+### Exploratory Analysis
+- Gene expression distribution histogram
+- Sample expression boxplots
+
+### Biomarker Exploration
+- Top 20 highly expressed genes
+- Top 20 most variable genes
+
+### Advanced Analysis
+- Heatmap visualization
+- Sample correlation analysis
+- Principal Component Analysis (PCA)
