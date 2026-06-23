@@ -23,3 +23,13 @@ This bioinformatics project analyzes real lung cancer gene expression data to id
 - results/
 - figures/
 - src/
+
+## Analysis Performed
+
+- GEO lung cancer dataset acquisition
+- Data preprocessing
+- Exploratory Data Analysis (EDA)
+- Gene expression distribution analysis
+- Top highly expressed gene identification
+- Top variable gene identification
+- Result export to CSV
